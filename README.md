@@ -20,9 +20,10 @@
 - [Installation](#installation)
 - [Features](#features)
 - [Running TallusX](#running-tallusx)
-- [Options](#options)
+    - [Repo Info](#repo-info)
+    - [Options](#options)
 - [Building TallusX](#building-tallusx)
-- [Pre-Compiled Binaries](#pre-compiled-binaries)
+    - [Pre-Compiled Binaries](#pre-compiled-binaries)
 - [References](#references)
 - [Contributing](#contributing)
 - [License](#license)
@@ -64,6 +65,14 @@ go run main.go --help
 go run main.go <subnet> [options]
 ```
 
+<img src="https://i.ibb.co/2MQN8C0/t4llusX.png" alt="t4llusX" border="0">
+
+</br>
+
+## Repo Info :-
+
+</br>
+<img src="https://i.ibb.co/jMV5rTh/onefetch.png" alt="onefetch" border="0">
 
 ### Example
 
