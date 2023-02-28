@@ -84,7 +84,6 @@ func main() {
 		if arg == "-h" || arg == "--help" {
 			help()
 		} else if arg == "-d" || arg == "--debug" {
-			println("Debug Mode")
 			isVerbose = true
 		} else if arg == "-V" || arg == "--version" {
 			println(color.Bold + color.Green + "TallusX " + color.Reset + color.Bold + color.Cyan + "v1.0.0" + color.Reset)
